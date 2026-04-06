@@ -61,8 +61,6 @@ Use the **Finish Game** button to end the session, or **Back** to return to the 
 - **JavaScript (ES6)** – game state management, win detection algorithms, event handling, dynamic grid generation.
 - **Google Fonts** – Orbitron (headings) and Space Grotesk (body) for a futuristic look.
 
-No frameworks, no external libraries – pure front‑end implementation.
-
 ---
 
 ## License
